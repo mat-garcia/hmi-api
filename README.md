@@ -122,8 +122,7 @@ Além da estratégia de banco de dados replicado, o RabbitMQ desempenha um papel
 - **Escalabilidade Horizontal**: Com o RabbitMQ, é possível escalar horizontalmente os consumidores de mensagens, adicionando mais instâncias conforme necessário para lidar com o aumento do volume de mensagens.
 
 ### Desenho da Arquitetura
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/66db22db-df05-4046-963d-133b33deb653" id="41cO8lbdzCA7"></iframe></div>
-
+![Caso de uso HMI API](https://github.com/user-attachments/assets/f580718d-f922-42bf-b56a-9e70f764bde1)
 
 ### Argumentos para o Desenho Escolhido
 
